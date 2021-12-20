@@ -20,7 +20,7 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-pngquant": "^9.0.2",
     "imagemin-svgo": "^8.0.0",
-    "imagemin-webp": "^6.0.0",
+    "imagemin-webp": "^7.0.0",
     "loader-utils": "^2.0.0",
     "object-assign": "^4.1.1",
     "schema-utils": "^2.7.1"
@@ -31,7 +31,7 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-pngquant": "^9.0.2",
     "imagemin-svgo": "^8.0.0",
-    "imagemin-webp": "^6.0.0"
+    "imagemin-webp": "^7.0.0"
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
